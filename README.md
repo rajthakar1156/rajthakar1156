@@ -14,7 +14,7 @@ Focused on building scalable software systems and intelligent automation using c
 - **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Redis  
 - **AI/ML**: YOLOv8, OpenCV, TensorFlow, Scikit-learn, Fuzzy Logic  
 - **DevOps & Tools**: GitHub Actions, Docker (basic), Vercel, Render, Neon (Postgres cloud)  
-- **DSA**: 300+ problems solved on LeetCode & GeeksforGeeks  
+- **DSA**: 800+ problems solved on LeetCode & GeeksforGeeks  
 
 ---
 

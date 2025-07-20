@@ -4,6 +4,7 @@
 💻 Full-Stack Developer | 🧠 AI & ML Practitioner | ⚙️ DevOps Learner
 
 Focused on building scalable software systems and intelligent automation using cutting-edge technologies.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧰 Tech Stack
 
@@ -67,6 +68,17 @@ Focused on building scalable software systems and intelligent automation using c
 </a>
 
 </div>
+
+<div align="center">
+  
+  <h2>📈 Visitor Counter</h2>
+
+  <img src="https://komarev.com/ghpvc/?username=rajthakar1156&label=Total+Visitors&color=0e75b6&style=flat-square" alt="visitor badge"/>
+
+</div>
+
+
+
 
 
 ## 📫 Connect with Me

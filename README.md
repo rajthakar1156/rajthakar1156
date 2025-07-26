@@ -1,9 +1,7 @@
-## 👋 Hi, I'm Raj Thakar
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I%E2%80%99m+Raj+Thakar!+👨‍💻;Full-Stack+MERN+Developer;Building+AI-powered+Tools+that+Matter+💡;Solving+Real+World+Problems+with+Code+🌍" alt="Raj Thakar Typing Intro" />
+</p>
 
-🎓 Final-year Computer Engineering Student | 📍 India  
-💻 Full-Stack Developer | 🧠 AI & ML Practitioner | ⚙️ DevOps Learner
-
-Focused on building scalable software systems and intelligent automation using cutting-edge technologies.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧰 Tech Stack

@@ -33,7 +33,6 @@
 - **Weed Detection Robot (YOLOv8)** – Real-time crop/weed classifier using YOLOv8 and smart spraying control  
   🌿 Precision agriculture solution with CV-based detection
 
-- **RO Management System** – Inventory control software used in production at Aqua Libra
 
 ---
 ## 📊 GitHub Stats & Activity

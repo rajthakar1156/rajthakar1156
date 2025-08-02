@@ -39,15 +39,6 @@
 
 <div align="center">
 
-<!--🔥 Streaks-->
-<a href="https://github.com/rajthakar1156">
-  <img height="200em" src="https://streak-stats.demolab.com?user=rajthakar1156&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
-</a>
-
-<!--📈 Main Stats-->
-<a href="https://github.com/rajthakar1156">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rajthakar1156&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&include_all_commits=true"/>
-</a>
 
 <!--💻 Top Languages-->
 <a href="https://github.com/rajthakar1156">
